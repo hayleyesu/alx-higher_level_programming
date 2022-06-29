@@ -1,1 +1,1 @@
-A repository to learn Pyton programming language
+A repository to learn Python programming language
