@@ -9,7 +9,7 @@ Date Created: 04 Aug 2022
 import csv
 import random
 import json
-
+import turtle
 
 class Base:
     """
@@ -34,7 +34,7 @@ class Base:
         Returns the JSON string representation of list_dictionaries
         """
         if list_dictionaries is None:
-            list_to_dictionaries = []
+            list_dictionaries = []
         return json.dumps(list_dictionaries)
 
     @classmethod
@@ -55,8 +55,8 @@ class Base:
         """
         Returns the list of the JSON string representation json_string
         """
-        if json_string is None:
-            json_string = "[]"
+        if json_string is None or len(json_string) == 0:
+            return []
         return json.loads(json_string)
 
     @classmethod
@@ -97,11 +97,11 @@ class Base:
             csv_writer = csv.writer(csvfile)
             if cls.__name__ == "Rectangle":
                 for obj in list_objs:
-                    csv.writerow([obj.id, obj.width, obj.height,
-                                  obj.x, obj.y])
+                    csv_writer.writerow([obj.id, obj.width, obj.height,
+                                         obj.x, obj.y])
             elif cls.__name__ == "Square":
                 for obj in list_objs:
-                    csv.writerow([obj.id, obj.size, obj.x obj.y])
+                    csv_writer.writerow([obj.id, obj.size, obj.x, obj.y])
 
     @classmethod
     def load_from_file_csv(cls):
