@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 File: 0-select_states.py
-Author: Ildoiuba Victor
+Author: Hayluyesus
 Desc: a script that lists all states from the database hbtn_0e_0_usa
 Date: 06 Oct 2022
 """
