@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 File: 11-model_state_insert.py
-Author: Ildoiuba Victor
+Author: Hayleyesus Shmelash
 Desc: a script that adds the State object “Louisiana” to the database
         hbtn_0e_6_usa
 Date: 07 Oct 2022

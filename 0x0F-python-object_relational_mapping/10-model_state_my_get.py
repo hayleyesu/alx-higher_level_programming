@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 File: 10-model_state_my_get.py
-Author: Ildoiuba Victor
+Author: hayleyesus shmelash
 Desc: a script that prints the State object with the name passed
         as argument from the database hbtn_0e_6_usa
 Date: 07 Oct 2022

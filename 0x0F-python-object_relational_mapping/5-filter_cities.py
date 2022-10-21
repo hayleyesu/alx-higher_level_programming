@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
 File: 5-filter_cities.py
-Author: Ildoiuba Victor
 Desc: a script that takes in the name of a state as an argument and lists
         all cities of that state, using the database hbtn_0e_4_usa.
 Date: 07 Oct 2022

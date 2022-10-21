@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
 File: 14-model_city_fetch_by_state.py
-Author: Ildoiuba Victor
 Desc: a script that lists all City objects from the
         database hbtn_0e_6_usa
 Date: 07 Oct 2022

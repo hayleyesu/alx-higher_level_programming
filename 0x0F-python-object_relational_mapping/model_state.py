@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
 File: model_state.py
-Author: Ildoiuba Victor
 Desc: contains the class definition of a State and an
         instance Base = declarative_base()
 Date: 07 Oct 2022

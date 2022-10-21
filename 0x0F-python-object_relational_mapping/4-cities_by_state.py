@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
 File: 4-cities_by_state.py
-Author: Ildoiuba Victor
 Desc: a script that lists all cities from the database hbtn_0e_4_usa
 Date: 07 Oct 2022
 """

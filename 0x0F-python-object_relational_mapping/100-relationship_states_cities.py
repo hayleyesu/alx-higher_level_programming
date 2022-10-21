@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 File: 100-relationship_states_cities.py
-Author: Ildoiuba Victor
+Author: Hayleyesus Shmelash
 Desc:  a script that creates the State “California” with the City
         “San Francisco” from the database hbtn_0e_100_usa
 Date: 07 Oct 2022

@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
 File: relationship_city.py
-Author: Ildoiuba Victor
 Desc: contains the class definition of a City
 Date: 07 Oct 2022
 """

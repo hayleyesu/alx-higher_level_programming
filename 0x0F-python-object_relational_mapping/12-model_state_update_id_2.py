@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 File: 12-model_state_update_id_2.py
-Author: Ildoiuba Victor
+Author: hayleyesus shmelash
 Desc: a script that changes the name of a State object from the database
         hbtn_0e_6_usa
 Date: 07 Oct 2022

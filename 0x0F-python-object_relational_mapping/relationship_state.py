@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
 File: relationship_state.py
-Author: Ildoiuba Victor
 Desc: contains the class definition of a State
 Date: 07 Oct 2022
 """

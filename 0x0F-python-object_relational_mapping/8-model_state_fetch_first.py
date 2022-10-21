@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
 File: 8-model_state_fetch_first.py
-Author: Ildoiuba Victor
 Desc: a script that prints the first State object from
         the database hbtn_0e_6_usa
 Date: 07 Oct 2022

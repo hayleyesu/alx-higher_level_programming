@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 File: 13-model_state_delete_a.py
-Author: Ildoiuba Victor
+Author: hayleyesus shmelash
 Desc: a script that deletes all State objects with a name containing the letter
         'a' from the database hbtn_0e_6_usa
 Date: 07 Oct 2022

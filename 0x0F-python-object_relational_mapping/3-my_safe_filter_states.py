@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
 File: 3-my_safe_filter_states.py
-Author: Ildoiuba Victor
 Desc: a script that takes in an argument and displays all values in the states
         table of hbtn_0e_0_usa where name matches the argument but safe from
         injections.

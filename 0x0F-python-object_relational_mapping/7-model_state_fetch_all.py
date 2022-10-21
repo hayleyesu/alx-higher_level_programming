@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
 File: 7-model_state_fetch_all.py
-Author: Ildoiuba Victor
 Desc: a script that lists all State objects from the
         database hbtn_0e_6_usa
 Date: 07 Oct 2022
